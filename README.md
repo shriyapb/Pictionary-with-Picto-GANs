@@ -9,6 +9,8 @@ To run the code, download npy files for apple, banana, car, grapes, moon, spider
 
 Required folder structure:
 
-inputs - contains *.npy files
-outputs - after every 50 epochs, generated images are saved
-models - the final DM and AM model weights are written here
+./inputs - contains *.npy files
+
+./outputs - after every 50 epochs, generated images are saved
+
+./models - the final DM and AM model weights are written here
